@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'did_django_google_api_tutorial.urls'
+ROOT_URLCONF = 'ecell_hack.urls'
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'did_django_google_api_tutorial.wsgi.application'
+WSGI_APPLICATION = 'ecell_hack.wsgi.application'
 
 
 # Database

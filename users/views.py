@@ -9,12 +9,12 @@ from django.views.generic.base import TemplateView
 from django.utils.decorators import method_decorator
 
 
-from did_django_google_api_tutorial.mixins import(
+from ecell_hack.mixins import(
 	AjaxFormMixin, 
 	reCAPTCHAValidation,
 	FormErrors,
 	RedirectParams,
-	)
+)
 
 
 from .forms import (
