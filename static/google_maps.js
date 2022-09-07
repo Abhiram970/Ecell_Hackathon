@@ -23,7 +23,7 @@ const waypts = [
         stopover: true},
         {location: {lat: lat_d, lng: long_d},
         stopover: true}
-        ];
+];
 
 function calculateAndDisplayRoute(directionsService, directionsDisplay) {
     directionsService.route({

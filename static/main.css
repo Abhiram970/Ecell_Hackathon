@@ -2,8 +2,11 @@ body {font-family: 'Courier Prime', monospace;}
 * {box-sizing: border-box;}
 
 body {
-
+background-color: rgb(18, 18, 18);
   margin: 0;
+  background: url(branding/backdrop2.png);
+
+    background-size:cover;
 }
 
 body, html, .map-container {
@@ -60,12 +63,12 @@ ul.sidenav li a {
 }
 
 ul.sidenav li a.active {
-  background-color: #DC4356;
+  background-color: #332065;
   color: white;
 }
 
 ul.sidenav li a:hover:not(.active) {
-  background-color: #332065;
+  background-color: #DC4356;
   color: white;
 }
 
@@ -106,28 +109,28 @@ input[type=text], input[type=email], input[type=password], select, textarea {
 
 
 ::-webkit-input-placeholder { /* Edge */
-  color: #9c07b6;
+  color: #332065;
   font-family: 'Courier Prime', monospace;
 }
 
 :-ms-input-placeholder { /* Internet Explorer */
-  color: #9c07b6;
+  color: #332065;
   font-family: 'Courier Prime', monospace;
 }
 
 ::placeholder {
-  color: #9c07b6;
+  color: #332065;
   font-family: 'Courier Prime', monospace;
 }
 
 select.selection option
 {
-  color: #9c07b6;
+  color: #332065;
   font-family: 'Courier Prime', monospace;
 }
 
 input, select{
-  color: #9c07b6;
+  color: #332065;
   font-family: 'Courier Prime', monospace;
 
 }
@@ -239,11 +242,11 @@ input, select{
 }
 
 input:checked + .slider {
-  background-color: #9c07b6;
+  background-color: #332065;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #9c07b6;
+  box-shadow: 0 0 1px #332065;
 }
 
 input:checked + .slider:before {
@@ -262,7 +265,7 @@ input:checked + .slider:before {
 }
 
 button[type=submit] {
-  background-color: #9c07b6;
+  background-color: #332065;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -271,7 +274,7 @@ button[type=submit] {
 }
 
 button[type=submit]:hover {
-  background-color: #730786;
+  background-color: #332065;
 }
 
 .container {
@@ -297,12 +300,12 @@ table th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #9c07b6;
+  background-color: #332065;
   color: white;
 }
 
 .selected {
-  background-color: #730786;
+  background-color: #332065;
   color: #FFF;
 }
 
