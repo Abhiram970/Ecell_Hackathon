@@ -150,4 +150,4 @@ LOGIN_URL = "users:sign-in"
 LOGIN_REDIRECT_URL = "users:account"
 LOGOUT_REDIRECT_URL = "users:sign-in"
 
-BASE_COUNTRY = "UK"
+BASE_COUNTRY = "IN"
