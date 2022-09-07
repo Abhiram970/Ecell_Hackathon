@@ -39,7 +39,7 @@ ul.sidenav li a {
 }
 
 ul.sidenav li a.active {
-  background-color: #9c07b6;
+  background-color: red;
   color: white;
 }
 
