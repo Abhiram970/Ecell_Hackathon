@@ -133,9 +133,9 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 
-GOOGLE_API_KEY = "AIzaSyDIcmJ-M505THCYxPhNM4UDTZHjt395cxI"
+GOOGLE_API_KEY = "AIzaSyAJnMDIawqRGnxZQmA4SDgAIw9eIcQm0GM"
 
-google_api_key = "AIzaSyDIcmJ-M505THCYxPhNM4UDTZHjt395cxI"
+google_api_key = "AIzaSyAJnMDIawqRGnxZQmA4SDgAIw9eIcQm0GM"
 
 RECAPTCHA_PUBLIC_KEY = "6LddMt0hAAAAAEYCmc2eJHq86ioM3D6qBot5BukR"
 
