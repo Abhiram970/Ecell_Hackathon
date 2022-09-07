@@ -1,6 +1,16 @@
 
 {% if request.user.is_authenticated %}
+<div class="nav_cont">
 <ul class="sidenav">
+  <div class="logo_cont">
+  {% load static %}
+  <a href="{% url 'users:account' %}">
+    <div class="brand-logo">
+      <img class="logo" src="{% static 'branding/tfemlogo.png' %}" />
+    </div>
+  </a>
+</div>
+  <div class="class_cont">
   {% if request.path == "/" %}
   <li><a class="active" href="{% url 'users:account' %}">User Account</a></li>
   {% else %}
@@ -33,6 +43,17 @@
   
 </ul>
 {% else %}
+<div class="nav_cont">
+<ul class="sidenav">
+  <div class="logo_cont">
+  {% load static %}
+  <a href="{% url 'users:account' %}">
+    <div class="brand-logo">
+      <img class="logo" src="{% static 'branding/tfemlogo.png' %}" />
+    </div>
+  </a>
+</div>
+  <div class="class_cont">
 <ul class="sidenav">
 
   {% if "sign-in" in request.path %}
@@ -46,5 +67,8 @@
   {% else %}
   <li><a href="{% url 'users:sign-up' %}">Sign Up</a></li>
   {% endif %}
+  </div>
 </ul>
+</div>
+</div>
 {% endif %}

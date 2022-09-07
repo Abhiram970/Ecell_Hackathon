@@ -14,37 +14,58 @@ body, html, .map-container {
   height: 75%;
   }
 
-.logo {
-  width: 150px;
-  padding: 8px;
+
+
+
+/* navbar */
+.nav_cont{
+  display: flex;
+  flex-direction: column;
 }
-
-
+.logo_cont{
+  width: auto;
+  align-self: center;
+}
+.logo {
+  width: 120px;
+  /* height: 100%; */
+  /* padding: 0px; */
+}
 ul.sidenav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 25%;
   background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
   overflow: auto;
+  width: 100%;
+  height: auto;
+  position: relative;
+    justify-content: space-between;
+  display:flex;
+}
+
+
+
+.class_cont{
+  display:flex;
+  flex-direction: row;
 }
 
 ul.sidenav li a {
-  display: block;
+  display: flex;
+  flex-direction: column;
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
 }
 
 ul.sidenav li a.active {
-  background-color: red;
+  background-color: #DC4356;
   color: white;
 }
 
 ul.sidenav li a:hover:not(.active) {
-  background-color: #555;
+  background-color: #332065;
   color: white;
 }
 
@@ -55,12 +76,7 @@ ul.sidenav li a:hover:not(.active) {
   height: 1000px;
 }
 
-@media screen and (max-width: 900px) {
-  ul.sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
+
   
   ul.sidenav li a {
     float: left;
@@ -68,7 +84,7 @@ ul.sidenav li a:hover:not(.active) {
   }
   
   .div-container {margin-left: 0;}
-}
+
 
 @media screen and (max-width: 400px) {
   ul.sidenav li a {
@@ -104,7 +120,7 @@ input[type=text], input[type=email], input[type=password], select, textarea {
   font-family: 'Courier Prime', monospace;
 }
 
-select.selection option,
+select.selection option
 {
   color: #9c07b6;
   font-family: 'Courier Prime', monospace;
@@ -155,7 +171,7 @@ input, select{
 
 /* When the checkbox is checked, add a green background */
 .check-container input:checked ~ .checkmark {
-  background-color: #9c07b6;
+  background-color: #332065;
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
