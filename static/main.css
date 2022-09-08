@@ -136,7 +136,11 @@ input[type=text], input[type=email], input[type=password], select, textarea {
  }
 
 ::-webkit-input-placeholder { /* Edge */
+<<<<<<< HEAD
   color: #4c3b75;
+=======
+  color: #332065;
+>>>>>>> de5815cee8205069b6151beb0d7d1380b623b096
   font-family: 'Courier Prime', monospace;
 }
 
@@ -146,19 +150,30 @@ input[type=text], input[type=email], input[type=password], select, textarea {
 }
 
 ::placeholder {
+<<<<<<< HEAD
   color:  #332065;
+=======
+  color: #332065;
+>>>>>>> de5815cee8205069b6151beb0d7d1380b623b096
   font-family: 'Courier Prime', monospace;
 }
 
 select.selection option
 {
+<<<<<<< HEAD
   color: #efefef;
+=======
+  color: #332065;
+>>>>>>> de5815cee8205069b6151beb0d7d1380b623b096
   font-family: 'Courier Prime', monospace;
 }
 
 input, select{
   color: #332065;
+<<<<<<< HEAD
   background-color: #efefef;
+=======
+>>>>>>> de5815cee8205069b6151beb0d7d1380b623b096
   font-family: 'Courier Prime', monospace;
 
 }
