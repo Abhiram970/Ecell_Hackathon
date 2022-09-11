@@ -4,7 +4,9 @@ Project based on "Sustainable Environment for Sustainable Future" for Technovit 
 <h1 align="center"> TFEM </h1> <br>
 <p align="center">
   <a href="https://github.com/Abhiram970/Ecell_Hackathon/">
+  
 [![TFEM Logo](/screenshots/TFEM.png)]
+  
   </a>
 </p>
 
@@ -38,8 +40,10 @@ This solution is a employee tracker that currently suggests optimum distance and
 
 
 <p align="center">
+
   [![FrontEnd](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd.jpg)]
   [![frontend](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd-II.jpg)]
+
 </p>
 
 ## Features
