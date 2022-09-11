@@ -4,7 +4,7 @@ Project based on "Sustainable Environment for Sustainable Future" for Technovit 
 <h1 align="center"> TFEM </h1> <br>
 <p align="center">
   <a href="https://github.com/Abhiram970/Ecell_Hackathon/">
-    ![TFEM Logo](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/TFEM.png)
+[![TFEM Logo](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/TFEM.png)]
   </a>
 </p>
 
@@ -30,19 +30,16 @@ Project based on "Sustainable Environment for Sustainable Future" for Technovit 
 
 ## Introduction
 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
 This solution is a employee tracker that currently suggests optimum distance and time required for the employee to travel from source to the destinations. It is developed using Django Framework.
 
 
 <p align="center">
-  [FrontEnd](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd.jpg)
-  [frontend](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd-II.jpg)
+  [![FrontEnd](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd.jpg)]
+  [![frontend](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd-II.jpg)]
 </p>
 
 ## Features
