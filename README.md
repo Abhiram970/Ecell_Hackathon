@@ -58,6 +58,7 @@ A few of the things you can do with GitPoint:
 * Find the shortest route to the destinations
 * Check time required to reach the destinations
 * Get directions 
+* Selenium Testing
 
 
 ## Feedback
