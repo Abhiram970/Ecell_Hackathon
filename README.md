@@ -1,10 +1,10 @@
 # TFEM - TRACK FIELD EMPLOYEE MOVEMENT
 Project based on "Sustainable Environment for Sustainable Future" for Technovit hackathon
 
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> TFEM </h1> <br>
 <p align="center">
   <a href="https://github.com/Abhiram970/Ecell_Hackathon/">
-    [TFEM Logo](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/TFEM.png)
+    ![TFEM Logo](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/TFEM.png)
   </a>
 </p>
 
