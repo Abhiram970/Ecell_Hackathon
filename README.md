@@ -90,7 +90,8 @@ Thanks to all the sponsors and collaborators of E-Cell, VIT-Chennai 24hr Hackath
 
 
 
+## 
 
-<p style="color:red;textAlignment:center">
+<p align="center" color="red">
 - Shatakshi 20BAI1314 - Nayan 20BCE1884 - Dhruvi 20BCE1882 - Abhiram 20BAI1132 <br>
 </p>
