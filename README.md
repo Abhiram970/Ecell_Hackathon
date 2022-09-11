@@ -72,16 +72,16 @@ This project follows the [all-contributors] specification and is brought to you 
 
 ## Build Process
 
--cd to development directory
--mkvirtualenv env
--mkdir ecell
--clone repository to new directory
--pip install -r requirements.txt
--Create and update settings.ini with your email API (GOOGLE_API_KEY, PUBLIC_KEY, PRIVATE_KEY)informatiom
--python manage.py makemigrations
--python manage.py migrate
--python manage.py runserver
--https://localhost:8000 
+- cd to development directory
+- mkvirtualenv env
+- mkdir ecell
+- clone repository to new directory
+- pip install -r requirements.txt
+- Create and update settings.ini with your email API (GOOGLE_API_KEY, PUBLIC_KEY, PRIVATE_KEY)informatiom
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py runserver
+- https://localhost:8000 
 
 
 ## Acknowledgments
