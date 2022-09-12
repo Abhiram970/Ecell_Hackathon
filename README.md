@@ -69,7 +69,7 @@ If there's anything you'd like to chat about, please feel free to connect with a
 
 ## Contributors
 
-This project follows the [all-contributors] specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+This project follows the [all-contributors] specification and is brought to you by these [awesome contributors][Contributors][contributors-shield]][contributors-url](./CONTRIBUTORS.md).
 
 ## Build Process
 
