@@ -87,7 +87,7 @@ This project follows the [all-contributors] specification and is brought to you 
 
 ## Acknowledgments
 
-Thanks to all the sponsors and collaborators of E-Cell, VIT-Chennai 24hr Hackathon and the team for giving us this opportunity and experience.
+Thanks to all the sponsors and collaborators of TECHNOVIT-22,VIT-Chennai 24hr Hackathon and the team for giving us this opportunity and experience.
 
 
 
